@@ -1,0 +1,360 @@
+{
+  "users": {
+    "citizen:aarav deshmukh": {
+      "name": "Aarav Deshmukh",
+      "role": "citizen",
+      "pw_hash": "4b4b4c19fdc4b422ca5a52085c3ba8fd2087c62afb06dae791f8fb9c51c56b4b"
+    },
+    "verifier:rajesh kulkarni": {
+      "name": "Rajesh Kulkarni",
+      "role": "verifier",
+      "pw_hash": "67f3f810a6c6c08900d357b76397e9e2d302be7fc07b99d4c3ba98ed7c244eb4"
+    },
+    "utility:nmc dispatch desk": {
+      "name": "NMC Dispatch Desk",
+      "role": "utility",
+      "pw_hash": "7fd253effce8972611b472e3206d0fa99965741a97bc66d563bab6cca2918099"
+    }
+  },
+  "crowd_by_layout": {
+    "wanadongri": {
+      "counts": {
+        "NORMAL": 65,
+        "LOW_PRESSURE": 10,
+        "BOREWELL_DRY": 45
+      },
+      "recent_logs": [
+        {
+          "time": "08:15 AM",
+          "unit": "B-201",
+          "by": "Resident Log",
+          "status": "BOREWELL_DRY",
+          "note": "Morning overhead tank check"
+        }
+      ]
+    },
+    "hingna": {
+      "counts": {
+        "NORMAL": 65,
+        "LOW_PRESSURE": 6,
+        "BOREWELL_DRY": 9
+      },
+      "recent_logs": [
+        {
+          "time": "08:15 AM",
+          "unit": "B-201",
+          "by": "Resident Log",
+          "status": "NORMAL",
+          "note": "Morning overhead tank check"
+        }
+      ]
+    },
+    "ngp_nagpur_ramdaspeth": {
+      "counts": {
+        "NORMAL": 116,
+        "LOW_PRESSURE": 10,
+        "BOREWELL_DRY": 5
+      },
+      "recent_logs": [
+        {
+          "time": "11:51 PM",
+          "unit": "B-304",
+          "by": "Aarav Deshmukh",
+          "status": "BOREWELL_DRY",
+          "note": "Citizen daily check-in"
+        },
+        {
+          "time": "11:51 PM",
+          "unit": "B-304",
+          "by": "Aarav Deshmukh",
+          "status": "LOW_PRESSURE",
+          "note": "Citizen daily check-in"
+        },
+        {
+          "time": "11:51 PM",
+          "unit": "B-304",
+          "by": "Aarav Deshmukh",
+          "status": "NORMAL",
+          "note": "Citizen daily check-in"
+        },
+        {
+          "time": "11:42 PM",
+          "unit": "B-304",
+          "by": "Aarav Deshmukh",
+          "status": "NORMAL",
+          "note": "Citizen daily check-in"
+        },
+        {
+          "time": "09:10 PM",
+          "unit": "B-304",
+          "by": "Aarav Deshmukh",
+          "status": "LOW_PRESSURE",
+          "note": "Citizen daily check-in"
+        },
+        {
+          "time": "09:10 PM",
+          "unit": "B-304",
+          "by": "Aarav Deshmukh",
+          "status": "LOW_PRESSURE",
+          "note": "Citizen daily check-in"
+        },
+        {
+          "time": "09:10 PM",
+          "unit": "B-304",
+          "by": "Aarav Deshmukh",
+          "status": "BOREWELL_DRY",
+          "note": "Citizen daily check-in"
+        },
+        {
+          "time": "09:10 PM",
+          "unit": "B-304",
+          "by": "Aarav Deshmukh",
+          "status": "LOW_PRESSURE",
+          "note": "Citizen daily check-in"
+        },
+        {
+          "time": "09:10 PM",
+          "unit": "B-304",
+          "by": "Aarav Deshmukh",
+          "status": "LOW_PRESSURE",
+          "note": "Citizen daily check-in"
+        },
+        {
+          "time": "08:15 AM",
+          "unit": "B-201",
+          "by": "Resident Log",
+          "status": "NORMAL",
+          "note": "Morning overhead tank check"
+        }
+      ]
+    },
+    "wadi": {
+      "counts": {
+        "NORMAL": 145,
+        "LOW_PRESSURE": 3,
+        "BOREWELL_DRY": 2
+      },
+      "recent_logs": [
+        {
+          "time": "08:15 AM",
+          "unit": "B-201",
+          "by": "Resident Log",
+          "status": "NORMAL",
+          "note": "Morning overhead tank check"
+        }
+      ]
+    },
+    "nagpur_rural": {
+      "counts": {
+        "NORMAL": 45,
+        "LOW_PRESSURE": 15,
+        "BOREWELL_DRY": 40
+      },
+      "recent_logs": [
+        {
+          "time": "08:15 AM",
+          "unit": "B-201",
+          "by": "Resident Log",
+          "status": "BOREWELL_DRY",
+          "note": "Morning overhead tank check"
+        }
+      ]
+    },
+    "ngp_bokhara_pz": {
+      "counts": {
+        "NORMAL": 163,
+        "LOW_PRESSURE": 7,
+        "BOREWELL_DRY": 3
+      },
+      "recent_logs": [
+        {
+          "time": "08:15 AM",
+          "unit": "B-201",
+          "by": "Resident Log",
+          "status": "NORMAL",
+          "note": "Morning overhead tank check"
+        }
+      ]
+    }
+  },
+  "verifier_by_layout": {
+    "wanadongri": {
+      "verifier_depth_m": 18.6,
+      "last_recorded_depth_m": 16.8,
+      "days_since_last": 7,
+      "verified_by": "Baseline Record",
+      "updated_at": "Today"
+    },
+    "hingna": {
+      "verifier_depth_m": 15.2,
+      "last_recorded_depth_m": 14.6,
+      "days_since_last": 7,
+      "verified_by": "Baseline Record",
+      "updated_at": "Today"
+    },
+    "ngp_nagpur_ramdaspeth": {
+      "verifier_depth_m": 2.5,
+      "last_recorded_depth_m": 2.2,
+      "days_since_last": 7,
+      "verified_by": "Baseline Record",
+      "updated_at": "Today"
+    },
+    "wadi": {
+      "verifier_depth_m": 5.2,
+      "last_recorded_depth_m": 5.1,
+      "days_since_last": 7,
+      "verified_by": "Baseline Record",
+      "updated_at": "Today"
+    },
+    "nagpur_rural": {
+      "verifier_depth_m": 4.8,
+      "last_recorded_depth_m": 4.8,
+      "days_since_last": 7,
+      "verified_by": "Baseline Record",
+      "updated_at": "Today"
+    },
+    "ngp_bokhara_pz": {
+      "verifier_depth_m": 7.6,
+      "last_recorded_depth_m": 7.3,
+      "days_since_last": 7,
+      "verified_by": "Baseline Record",
+      "updated_at": "Today"
+    }
+  },
+  "rwh_checks_by_layout": {
+    "ngp_nagpur_ramdaspeth": {
+      "r_0": false,
+      "r_1": false,
+      "r_2": false,
+      "r_3": true
+    }
+  },
+  "depots": [
+    {
+      "id": "depot-1",
+      "name": "Zone 1 Depot \u2014 Dharampeth",
+      "lat": 21.142,
+      "lon": 79.064,
+      "max_capacity_l": 40000,
+      "current_stock_l": 40000,
+      "trucks_ready": 5,
+      "trucks_total": 5
+    },
+    {
+      "id": "depot-2",
+      "name": "Zone 2 Depot \u2014 Sitabuldi",
+      "lat": 21.15,
+      "lon": 79.087,
+      "max_capacity_l": 35000,
+      "current_stock_l": 15000,
+      "trucks_ready": 2,
+      "trucks_total": 4
+    },
+    {
+      "id": "depot-3",
+      "name": "Zone 3 Depot \u2014 Hingna Road",
+      "lat": 21.092,
+      "lon": 78.972,
+      "max_capacity_l": 50000,
+      "current_stock_l": 40000,
+      "trucks_ready": 6,
+      "trucks_total": 6
+    }
+  ],
+  "tanker_orders": [
+    {
+      "id": "IND-719",
+      "layout_id": "wanadongri",
+      "layout_name": "Shanti Vihar Layout, Wanadongri",
+      "volume_l": 10000,
+      "trips": 1,
+      "lpcd_norm": 55,
+      "verified_by": "Rajesh Kulkarni",
+      "status": "PENDING_DISPATCH",
+      "depot_id": null,
+      "depot_name": null,
+      "vehicle_no": null,
+      "distance_km": null,
+      "created_at": "11:55 PM",
+      "updated_at": "11:55 PM"
+    },
+    {
+      "id": "IND-116",
+      "layout_id": "ngp_nagpur_ramdaspeth",
+      "layout_name": "Nagpur - Ramdaspeth (Nagpur (Rural))",
+      "volume_l": 10000,
+      "trips": 1,
+      "lpcd_norm": 55,
+      "verified_by": "NMC Dispatch Desk",
+      "status": "DISPATCHED",
+      "depot_id": "depot-2",
+      "depot_name": "Zone 2 Depot \u2014 Sitabuldi",
+      "vehicle_no": "MH-31-TK-789",
+      "distance_km": 3.23,
+      "created_at": "09:15 PM",
+      "updated_at": "09:15 PM"
+    },
+    {
+      "id": "IND-101",
+      "layout_id": "wanadongri",
+      "layout_name": "Shanti Vihar Layout, Wanadongri",
+      "volume_l": 10000,
+      "trips": 1,
+      "lpcd_norm": 55,
+      "verified_by": "Rajesh Kulkarni",
+      "status": "CONFIRMED",
+      "depot_id": "depot-3",
+      "depot_name": "Zone 3 Depot \u2014 Hingna Road",
+      "vehicle_no": "MH-31-TK-412",
+      "distance_km": 1.75,
+      "created_at": "08:30 AM",
+      "updated_at": "09:13 PM"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "W5908",
+      "layout_id": "ngp_nagpur_ramdaspeth",
+      "layout_name": "Nagpur - Ramdaspeth (Nagpur (Rural))",
+      "issue_type": "Leaking pipeline",
+      "severity": "Moderate",
+      "description": "Near lane 2 heavy pipiline burst",
+      "reported_by": "Aarav Deshmukh",
+      "status": "OPEN",
+      "created_at": "11:51 PM"
+    },
+    {
+      "id": "W5408",
+      "layout_id": "ngp_nagpur_ramdaspeth",
+      "layout_name": "Nagpur - Ramdaspeth (Nagpur (Rural))",
+      "issue_type": "Overflowing storage tank",
+      "severity": "Moderate",
+      "description": "Near lane 2 heavy pipeline burst",
+      "reported_by": "Aarav Deshmukh",
+      "status": "OPEN",
+      "created_at": "11:43 PM"
+    },
+    {
+      "id": "W5270",
+      "layout_id": "ngp_nagpur_ramdaspeth",
+      "layout_name": "Nagpur - Ramdaspeth (Nagpur (Rural))",
+      "issue_type": "Leaking pipeline",
+      "severity": "Minor",
+      "description": "Near lane 2 corner valve leaking heavily",
+      "reported_by": "Aarav Deshmukh",
+      "status": "RESOLVED",
+      "created_at": "09:11 PM"
+    },
+    {
+      "id": "W1042",
+      "layout_id": "hingna",
+      "layout_name": "Samarth Nagar, Hingna",
+      "issue_type": "Leaking pipeline",
+      "severity": "Moderate",
+      "description": "Main feeder valve weeping near Gate 2",
+      "reported_by": "Aarav Deshmukh",
+      "status": "OPEN",
+      "created_at": "09:05 AM"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "hingna": {
+    "counts": {
+      "NORMAL": 65,
+      "LOW_PRESSURE": 6,
+      "BOREWELL_DRY": 9
+    },
+    "recent_logs": [
+      {
+        "time": "08:15 AM",
+        "unit": "Plot 14 / B-201",
+        "status": "NORMAL",
+        "note": "Morning overhead tank check-in"
+      },
+      {
+        "time": "07:45 AM",
+        "unit": "Plot 09 / A-104",
+        "status": "LOW_PRESSURE",
+        "note": "Municipal sump supply check"
+      }
+    ]
+  },
+  "ngp_gahuhivra": {
+    "counts": {
+      "NORMAL": 101,
+      "LOW_PRESSURE": 4,
+      "BOREWELL_DRY": 2
+    },
+    "recent_logs": [
+      {
+        "time": "08:15 AM",
+        "unit": "Plot 14 / B-201",
+        "status": "NORMAL",
+        "note": "Morning overhead tank check-in"
+      },
+      {
+        "time": "07:45 AM",
+        "unit": "Plot 09 / A-104",
+        "status": "NORMAL",
+        "note": "Municipal sump supply check"
+      }
+    ]
+  },
+  "ngp_bokhara_pz": {
+    "counts": {
+      "NORMAL": 163,
+      "LOW_PRESSURE": 7,
+      "BOREWELL_DRY": 3
+    },
+    "recent_logs": [
+      {
+        "time": "08:15 AM",
+        "unit": "Plot 14 / B-201",
+        "status": "NORMAL",
+        "note": "Morning overhead tank check-in"
+      },
+      {
+        "time": "07:45 AM",
+        "unit": "Plot 09 / A-104",
+        "status": "LOW_PRESSURE",
+        "note": "Municipal sump supply check"
+      }
+    ]
+  },
+  "ngp_nagpur_ramdaspeth": {
+    "counts": {
+      "NORMAL": 120,
+      "LOW_PRESSURE": 6,
+      "BOREWELL_DRY": 3
+    },
+    "recent_logs": [
+      {
+        "time": "04:05 PM",
+        "unit": "B-304",
+        "status": "LOW_PRESSURE",
+        "note": "Daily household availability log"
+      },
+      {
+        "time": "08:15 AM",
+        "unit": "Plot 14 / B-201",
+        "status": "NORMAL",
+        "note": "Morning overhead tank check-in"
+      },
+      {
+        "time": "07:45 AM",
+        "unit": "Plot 09 / A-104",
+        "status": "LOW_PRESSURE",
+        "note": "Municipal sump supply check"
+      }
+    ]
+  }
+}
