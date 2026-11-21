@@ -1,6 +1,6 @@
-# 💧 JalSetu Nagpur — Community Groundwater, Tanker & Recharge Portal
+# 💧 JalSetu  — Community Groundwater, Tanker & Recharge Portal
 
-## 📖 About JalSetu Nagpur
+## 📖 About JalSetu 
 
 **JalSetu Nagpur** (built by **Team Gravitons** for **YCCE HackKumbh 2026**) is a zero-hardware, community-driven water resource monitoring and conservation portal designed for drought-prone and rapidly urbanizing residential layouts across **Nagpur District**.
 
