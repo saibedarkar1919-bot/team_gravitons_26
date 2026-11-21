@@ -2,7 +2,7 @@
 
 ## 📖 About JalSetu 
 
-**JalSetu Nagpur** (built by **Team Gravitons** for **YCCE HackKumbh 2026**) is a zero-hardware, community-driven water resource monitoring and conservation portal designed for drought-prone and rapidly urbanizing residential layouts across **Nagpur District**.
+**Jalsetu** (built by **Team Gravitons** for **YCCE HackKumbh 2026**) is a zero-hardware, community-driven water resource monitoring and conservation portal designed for drought-prone and rapidly urbanizing residential layouts across **Nagpur District**.
 
 Instead of installing expensive Internet of Things (IoT) sensors in every borewell, JalSetu calibrates periodic manual well measurements against continuous 6-hourly Central Ground Water Board (CGWB) telemetry and live 48-hour rainfall data—connecting **Residents**, **Field Verifiers**, and **Municipal Tanker Dispatchers** on one unified platform.
 
@@ -20,7 +20,7 @@ Instead of installing expensive Internet of Things (IoT) sensors in every borewe
 
 ## 🛠️ Tech Stack & Prerequisites
 
-To run and view the JalSetu Nagpur web application locally on your device, you only need:
+To run and view the Jalsetu web application locally on your device, you only need:
 
 1. **Python 3.10 or higher** (uses Python's built-in `http.server`, `json`, `math`, `hashlib`, `urllib`, and `datetime` standard libraries—**no heavy third-party `pip` packages required**).
 
@@ -62,7 +62,7 @@ You will see:
 
 ```
 =======================================================
- JalSetu Nagpur — Watermelon UI + Magic/Cult Glass (91 locations)
+ Jalsetu — Watermelon UI + Magic/Cult Glass (91 locations)
  Backend: jalsetu_backend.py | Frontend: ui.py
  Open Portal: http://127.0.0.1:8000/login
  Press Ctrl+C to stop.
